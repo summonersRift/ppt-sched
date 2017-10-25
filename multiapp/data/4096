@@ -1,0 +1,4 @@
+;job#  tSubmt    tWait   tRun #proc  avg_tCpu  reqProc        Status       exec# Q#   PJ TTPJ
+;                                         memUsed    tReq  memReq    UID GID      part#
+;
+272721 31706331  50763  20560 4096     -1    -1 4096  70020    -1  1 235 137  -1 -1  4 -1 -1
