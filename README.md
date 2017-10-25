@@ -38,3 +38,7 @@ Simply edit in the file the trace you want and job scheduler configurations.
  * algorithms_scheduling.py : Some of the supported sample scheduling algorithm
  * algorithms_mapping.py : task mapping algorithms
 
+### Last but not least
+If you need help with anything or have suggestions or would like to contribute please reach me at 
+`obaida007 AT gmail.com` or `mobai001 AT fiu.edu`
+
